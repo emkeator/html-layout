@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.status-bar{
+  height: 100px;
+  width: 100%;
+  background-color: lightgray;
+}
+
+.img-placeholder {
+  height: 60px;
+  width: 60px;
+  background-color: #4f8cff;
+  display: inline-block;
+  margin: 20px 0 0 20px;
+
+}
+.info-section {
+  font-family: sans-serif;
+  font-size: 110%;
+  text-align: justify;
+  padding: 10%;
+  width: 100%;
+  display: inline-block;
+}
+
+.wrapper {
+  width: 100%;
+  height: 480px;
+}
+
+.colorbar{
+  width: 100%;
+  display: block;
+  height: 24.85%;
+  margin: 0;
+}

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.col {
+  margin: 0;
+  padding: 0;
+  width: 33.3%;
+  height: 100vh;
+  display: inline-block;
+}
+
+.img-placeholder {
+  height: 35vh;
+  background-color: red;
+  width: 100%;
+  position: relative;
+  top: 65vh;
+
+}
